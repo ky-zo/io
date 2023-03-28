@@ -11,3 +11,4 @@ init.sh
 package-lock.json
 package.json
 webpack.config.js
+.eslintrc.json
